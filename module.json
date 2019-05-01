@@ -1,0 +1,12 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Shut Up Anya",
+	"category": "client",
+	"description": "Ever want anya on stepstone island to just, shut up? without muting sounds completely, well here you go.",
+	"author": "Snug",
+	"options": {
+		"guiName": "Sound: Shut Up Anya",
+		"niceName": "Shut Up Anya"
+	},
+	"servers": ["https://raw.githubusercontent.com/Snugglez/shut-up-anya-client-mod/master/"]
+}
