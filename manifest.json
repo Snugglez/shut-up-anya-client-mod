@@ -2,8 +2,8 @@
 	"files": {
 		"README.md": "f3dc25147293cbbf7fda2add3225962ad181a9f80899052e493e72b54ba5b215",
 		"index.js": "b7087af5226f113edaf77fdeb35daaaf35faae6218949aa7fb66ff728637d74a",
-		"res/Asha_Crying.gpk": "61b4fd65df0dbf3727946d24ff1e95a6529f2008b8884d84f23d426b0d3529a8",
-		"res/Asha_Happy.gpk": "e6bfea449ab8d0c3afa348327d3620193c0063668fe4275dec0b7d3b24b04108",
-		"res/Asha_Sad.gpk": "8f6545575e86c0e0cc90d9ac47523a2720c04aed2de004371498679fb8fc075c"
+		"res/Asha_Crying_USA.gpk": "61b4fd65df0dbf3727946d24ff1e95a6529f2008b8884d84f23d426b0d3529a8",
+		"res/Asha_Happy_USA.gpk": "e6bfea449ab8d0c3afa348327d3620193c0063668fe4275dec0b7d3b24b04108",
+		"res/Asha_Sad_USA.gpk": "8f6545575e86c0e0cc90d9ac47523a2720c04aed2de004371498679fb8fc075c"
 	}
 }
